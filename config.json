@@ -1,0 +1,7 @@
+{
+    "DESIGN_NAME": "pwm_gen",
+    "VERILOG_FILES": "dir::pwm_gen.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10,
+    "PDK": "sky130A"
+}
